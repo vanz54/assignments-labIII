@@ -1,2 +1,2 @@
 # assignments-labIII
-* Assignments of labIII course, little projects assigned during the course.
+Insieme degli 11 progettini consegnati durante il corso di Laboratorio III, effettuati in preparazione al progetto finale dell'esame.
